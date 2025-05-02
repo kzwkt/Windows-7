@@ -15,3 +15,7 @@ Linux theme based on the apperance of Windows 7
 
 ### Manual installation
 Go to releases, download the latest `.zip` file and extract it to the themes directory i.e. `/home/USERNAME/.themes`
+
+
+# xpm modified from  X-Aero
+https://www.xfce-look.org/p/1016331
